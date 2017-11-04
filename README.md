@@ -1,2 +1,2 @@
 # codes-c-plusplus
-This codes were used in the website https://www.urionlinejudge.com.br/judge/en/login during my college. The majority weren't reviewed and this repository served, really, as a repository :D
+These codes were used at https://www.urionlinejudge.com.br/judge/en/login during my college. Most were not revised (such as indentation and best practices), but all codes were accepted by the judge of this portal and this repository was, really, used as a repository :D
